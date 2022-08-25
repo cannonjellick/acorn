@@ -5,6 +5,8 @@ slug: /
 
 :::caution
 
+this is a test
+
 Acorn is a work in progress.  Features will evolve over time and there may be breaking changes between releases.  Please give us your feedback in [Slack](https://slack.acorn.io), [Discussions](https://github.com/acorn-io/acorn/discussions), or [Issues](https://github.com/acorn-io/acorn/issues)!
 :::
 
